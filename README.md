@@ -1,14 +1,14 @@
 <h1># Moduł pomiarowy dla platformy latającej</h1>
-System telemetri złożonej z odbiornika oraz nadajnika.<br>
+<b>System telemetri złożonej z odbiornika oraz nadajnika.<br>
 
-Nadajnik zbudowany został z:<br>
+Nadajnik zbudowany został z:<br></b>
 -czujnika zapylenia sharp GP2Y1010AU0F<br>
 -cyfrowego czujnika temperatury oraz wilgotności DHT22<br>
 -czujnika tlenku węgla<br>
 -Arduino Nano<br>
 -Modułu komunikacji radiowej w pasmie 2,4 GHz<br>
 -Płyty z włókna węglowego, będącą podstawą pod montaż elektroniki<br>
-Odbiornik składa się z:<br>
+<b>Odbiornik składa się z:<br></b>
 -Wyświetlacza LCD 4x20<br>
 -Arduino Uno<br>
 -modułu komunikacji 2,4GHz<br>
